@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Data structure and algorithm for Java developers](https://github.com/nit3/DSA-for-Java)
 
-- 🌱 I’m currently learning **Spring, AI development**
+- 🌱 I’m currently learning **Kafka, AI development**
 
 - 👯 I’m looking to collaborate on [Cool Java 😎](https://github.com/nit3/cool-java)
 
