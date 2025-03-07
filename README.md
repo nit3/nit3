@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nit3&label=Profile%20views&color=0e75b6&style=flat" alt="nit3" /> </p>
 
-- 🔭 I’m currently working on [Data structure and algorithm for Java developers](https://github.com/nit3/DSA-for-Java)
-
 - 🌱 I’m currently learning **Kafka, AI development**
 
 - 👨‍💻 All of my projects are available at [https://salharbi.net/](https://salharbi.net/)
