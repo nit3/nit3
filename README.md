@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Kafka, AI development**
 
-- 🤝 I’m looking to collaborate on [Cool Java 😎](https://github.com/nit3/cool-java)
-
 - 👨‍💻 All of my projects are available at [https://salharbi.net/](https://salharbi.net/)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/salem-alharbi](www.linkedin.com/in/salem-alharbi)
